@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/LinearLayoutDemo.iml" filepath="$PROJECT_DIR$/LinearLayoutDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/framelayoutdemo/framelayoutdemo.iml" filepath="$PROJECT_DIR$/framelayoutdemo/framelayoutdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gridlayout/gridlayout.iml" filepath="$PROJECT_DIR$/gridlayout/gridlayout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/horizontalscrollview/horizontalscrollview.iml" filepath="$PROJECT_DIR$/horizontalscrollview/horizontalscrollview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/scrollviewdemo/scrollviewdemo.iml" filepath="$PROJECT_DIR$/scrollviewdemo/scrollviewdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tablelayoutdemo/tablelayoutdemo.iml" filepath="$PROJECT_DIR$/tablelayoutdemo/tablelayoutdemo.iml" />
+    </modules>
+  </component>
+</project>
